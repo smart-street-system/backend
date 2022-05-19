@@ -1,6 +1,6 @@
 const Lampdb = require('../model/model');
 
-//create and save new lamp
+//create and save new lamp api
 exports.create=(req,res)=>{
     if(!req.body)
     {
