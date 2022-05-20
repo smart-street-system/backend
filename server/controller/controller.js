@@ -7,6 +7,7 @@ exports.create=(req,res)=>{
         res.stauts(400).send({message : "content can't be empty"});
         return;
     }
+    console.log(req.body);
 
     const lamp =new Lampdb({
         lampName :req.body.lampName,
