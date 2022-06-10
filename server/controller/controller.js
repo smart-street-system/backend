@@ -9,12 +9,14 @@ exports.create = (req, res) => {
   }
   console.log(req.body);
 
+  // TODO: fetch address from Google map api (ref: exports.address - line 84 to fetch address)
+  // sample response of googel map API in maps/ folder
   const lamp = new Lampdb({
     lampName: req.body.lampName,
     longitude: req.body.longitude,
     lattitude: req.body.lattitude,
     isActive: req.body.active,
-    address: req.body.address,
+    address: req.body.address, // TODO: use the address fetched by the Google Map API not from req.body
   });
 
   //save in db
@@ -73,6 +75,7 @@ exports.findbyLampId = (req, res) => {
     });
 };
 
+// TODO: Update the KEY with ENV varibale
 const YOUR_API_KEY = 'key';
 const latt = '12.939573';
 const long = '77.698117';
@@ -90,6 +93,7 @@ exports.address = (req, res) => {
 };
 
 //update a lamp by id
+// TODO: logs API is integrated, it has to be implemented from Arduino Microcontroller
 exports.update = (req, res) => {
   if (!req.body) {
     return res.stauts(400).send({ message: "data to update can't be empty" });
