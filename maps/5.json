@@ -1,0 +1,739 @@
+{
+  "plus_code": {
+    "compound_code": "WPQ2+M3W Bengaluru, Karnataka, India",
+    "global_code": "7J4VWPQ2+M3W"
+  },
+  "results": [
+    {
+      "address_components": [
+        {
+          "long_name": "Panathur Main Road",
+          "short_name": "Panathur Main Rd",
+          "types": ["route"]
+        },
+        {
+          "long_name": "Munireddy Layout",
+          "short_name": "Munireddy Layout",
+          "types": ["neighborhood", "political"]
+        },
+        {
+          "long_name": "Kadubeesanahalli",
+          "short_name": "Kadubeesanahalli",
+          "types": ["political", "sublocality", "sublocality_level_2"]
+        },
+        {
+          "long_name": "Panathur",
+          "short_name": "Panathur",
+          "types": ["political", "sublocality", "sublocality_level_1"]
+        },
+        {
+          "long_name": "Bengaluru",
+          "short_name": "Bengaluru",
+          "types": ["locality", "political"]
+        },
+        {
+          "long_name": "Bangalore Urban",
+          "short_name": "Bangalore Urban",
+          "types": ["administrative_area_level_2", "political"]
+        },
+        {
+          "long_name": "Karnataka",
+          "short_name": "KA",
+          "types": ["administrative_area_level_1", "political"]
+        },
+        {
+          "long_name": "India",
+          "short_name": "IN",
+          "types": ["country", "political"]
+        },
+        {
+          "long_name": "560103",
+          "short_name": "560103",
+          "types": ["postal_code"]
+        }
+      ],
+      "formatted_address": "88/3, 2nd Cross, Panathur Main Rd, Munireddy Layout, Kadubeesanahalli, Panathur, Bengaluru, Karnataka 560103, India",
+      "geometry": {
+        "location": {
+          "lat": 12.9392239,
+          "lng": 77.7000867
+        },
+        "location_type": "GEOMETRIC_CENTER",
+        "viewport": {
+          "northeast": {
+            "lat": 12.9405728802915,
+            "lng": 77.7014356802915
+          },
+          "southwest": {
+            "lat": 12.9378749197085,
+            "lng": 77.69873771970849
+          }
+        }
+      },
+      "place_id": "ChIJgXgc9WUTrjsRJNeDw8jpv4A",
+      "plus_code": {
+        "compound_code": "WPQ2+M2 Bengaluru, Karnataka, India",
+        "global_code": "7J4VWPQ2+M2"
+      },
+      "types": ["establishment", "point_of_interest"]
+    },
+    {
+      "address_components": [
+        {
+          "long_name": "Cluster_varthuru 5 Shree Lakshmi Pg Ladies",
+          "short_name": "Cluster_varthuru 5 Shree Lakshmi Pg Ladies",
+          "types": ["premise"]
+        },
+        {
+          "long_name": "SRI HARI NIVAS",
+          "short_name": "SRI HARI NIVAS",
+          "types": ["premise"]
+        },
+        {
+          "long_name": "Kadubeesanahalli",
+          "short_name": "Kadubeesanahalli",
+          "types": ["political", "sublocality", "sublocality_level_2"]
+        },
+        {
+          "long_name": "Panathur",
+          "short_name": "Panathur",
+          "types": ["political", "sublocality", "sublocality_level_1"]
+        },
+        {
+          "long_name": "Bengaluru",
+          "short_name": "Bengaluru",
+          "types": ["locality", "political"]
+        },
+        {
+          "long_name": "Bangalore Urban",
+          "short_name": "Bangalore Urban",
+          "types": ["administrative_area_level_2", "political"]
+        },
+        {
+          "long_name": "Karnataka",
+          "short_name": "KA",
+          "types": ["administrative_area_level_1", "political"]
+        },
+        {
+          "long_name": "India",
+          "short_name": "IN",
+          "types": ["country", "political"]
+        },
+        {
+          "long_name": "560103",
+          "short_name": "560103",
+          "types": ["postal_code"]
+        }
+      ],
+      "formatted_address": "Cluster_varthuru 5 Shree Lakshmi Pg Ladies, SRI HARI NIVAS, Kadubeesanahalli, Panathur, Bengaluru, Karnataka 560103, India",
+      "geometry": {
+        "bounds": {
+          "northeast": {
+            "lat": 12.9392443,
+            "lng": 77.70010499999999
+          },
+          "southwest": {
+            "lat": 12.9391138,
+            "lng": 77.7000171
+          }
+        },
+        "location": {
+          "lat": 12.9391867,
+          "lng": 77.70006529999999
+        },
+        "location_type": "ROOFTOP",
+        "viewport": {
+          "northeast": {
+            "lat": 12.9405280302915,
+            "lng": 77.7014100302915
+          },
+          "southwest": {
+            "lat": 12.9378300697085,
+            "lng": 77.69871206970849
+          }
+        }
+      },
+      "place_id": "ChIJo26cT00SrjsRgR-meDYSHCQ",
+      "types": ["premise"]
+    },
+    {
+      "address_components": [
+        {
+          "long_name": "3",
+          "short_name": "3",
+          "types": ["premise"]
+        },
+        {
+          "long_name": "Munireddy Layout",
+          "short_name": "Munireddy Layout",
+          "types": ["neighborhood", "political"]
+        },
+        {
+          "long_name": "Munnireddy Layout",
+          "short_name": "Munnireddy Layout",
+          "types": ["political", "sublocality", "sublocality_level_2"]
+        },
+        {
+          "long_name": "Panathur",
+          "short_name": "Panathur",
+          "types": ["political", "sublocality", "sublocality_level_1"]
+        },
+        {
+          "long_name": "Bengaluru",
+          "short_name": "Bengaluru",
+          "types": ["locality", "political"]
+        },
+        {
+          "long_name": "Bangalore Urban",
+          "short_name": "Bangalore Urban",
+          "types": ["administrative_area_level_2", "political"]
+        },
+        {
+          "long_name": "Karnataka",
+          "short_name": "KA",
+          "types": ["administrative_area_level_1", "political"]
+        },
+        {
+          "long_name": "India",
+          "short_name": "IN",
+          "types": ["country", "political"]
+        },
+        {
+          "long_name": "560103",
+          "short_name": "560103",
+          "types": ["postal_code"]
+        }
+      ],
+      "formatted_address": "3, Munireddy Layout, Munnireddy Layout, Panathur, Bengaluru, Karnataka 560103, India",
+      "geometry": {
+        "location": {
+          "lat": 12.9390695,
+          "lng": 77.69976799999999
+        },
+        "location_type": "ROOFTOP",
+        "viewport": {
+          "northeast": {
+            "lat": 12.9404184802915,
+            "lng": 77.70111698029149
+          },
+          "southwest": {
+            "lat": 12.9377205197085,
+            "lng": 77.69841901970848
+          }
+        }
+      },
+      "place_id": "ChIJt_kgb2ITrjsRw-A0TrpYfOc",
+      "plus_code": {
+        "compound_code": "WMQX+JW Bengaluru, Karnataka, India",
+        "global_code": "7J4VWMQX+JW"
+      },
+      "types": ["street_address"]
+    },
+    {
+      "address_components": [
+        {
+          "long_name": "2nd Cross Street",
+          "short_name": "2nd Cross St",
+          "types": ["route"]
+        },
+        {
+          "long_name": "Kadubeesanahalli",
+          "short_name": "Kadubeesanahalli",
+          "types": ["political", "sublocality", "sublocality_level_2"]
+        },
+        {
+          "long_name": "Panathur",
+          "short_name": "Panathur",
+          "types": ["political", "sublocality", "sublocality_level_1"]
+        },
+        {
+          "long_name": "Bengaluru",
+          "short_name": "Bengaluru",
+          "types": ["locality", "political"]
+        },
+        {
+          "long_name": "Bangalore Urban",
+          "short_name": "Bangalore Urban",
+          "types": ["administrative_area_level_2", "political"]
+        },
+        {
+          "long_name": "Karnataka",
+          "short_name": "KA",
+          "types": ["administrative_area_level_1", "political"]
+        },
+        {
+          "long_name": "India",
+          "short_name": "IN",
+          "types": ["country", "political"]
+        },
+        {
+          "long_name": "560103",
+          "short_name": "560103",
+          "types": ["postal_code"]
+        }
+      ],
+      "formatted_address": "2nd Cross St, Kadubeesanahalli, Panathur, Bengaluru, Karnataka 560103, India",
+      "geometry": {
+        "bounds": {
+          "northeast": {
+            "lat": 12.9393034,
+            "lng": 77.70025079999999
+          },
+          "southwest": {
+            "lat": 12.9392343,
+            "lng": 77.6998787
+          }
+        },
+        "location": {
+          "lat": 12.9392689,
+          "lng": 77.70006479999999
+        },
+        "location_type": "GEOMETRIC_CENTER",
+        "viewport": {
+          "northeast": {
+            "lat": 12.9406178302915,
+            "lng": 77.70141373029151
+          },
+          "southwest": {
+            "lat": 12.9379198697085,
+            "lng": 77.69871576970849
+          }
+        }
+      },
+      "place_id": "ChIJpc9tT00SrjsR6kyIMoElD6o",
+      "types": ["route"]
+    },
+    {
+      "address_components": [
+        {
+          "long_name": "WPQ2+M3",
+          "short_name": "WPQ2+M3",
+          "types": ["plus_code"]
+        },
+        {
+          "long_name": "Bengaluru",
+          "short_name": "Bengaluru",
+          "types": ["locality", "political"]
+        },
+        {
+          "long_name": "Bangalore Urban",
+          "short_name": "Bangalore Urban",
+          "types": ["administrative_area_level_2", "political"]
+        },
+        {
+          "long_name": "Karnataka",
+          "short_name": "KA",
+          "types": ["administrative_area_level_1", "political"]
+        },
+        {
+          "long_name": "India",
+          "short_name": "IN",
+          "types": ["country", "political"]
+        }
+      ],
+      "formatted_address": "WPQ2+M3 Bengaluru, Karnataka, India",
+      "geometry": {
+        "bounds": {
+          "northeast": {
+            "lat": 12.93925,
+            "lng": 77.70025
+          },
+          "southwest": {
+            "lat": 12.939125,
+            "lng": 77.700125
+          }
+        },
+        "location": {
+          "lat": 12.939243,
+          "lng": 77.70019599999999
+        },
+        "location_type": "GEOMETRIC_CENTER",
+        "viewport": {
+          "northeast": {
+            "lat": 12.9405364802915,
+            "lng": 77.70153648029149
+          },
+          "southwest": {
+            "lat": 12.9378385197085,
+            "lng": 77.69883851970849
+          }
+        }
+      },
+      "place_id": "GhIJbf5fdeTgKUARjzLiAtBsU0A",
+      "plus_code": {
+        "compound_code": "WPQ2+M3 Bengaluru, Karnataka, India",
+        "global_code": "7J4VWPQ2+M3"
+      },
+      "types": ["plus_code"]
+    },
+    {
+      "address_components": [
+        {
+          "long_name": "Munnireddy Layout",
+          "short_name": "Munnireddy Layout",
+          "types": ["political", "sublocality", "sublocality_level_2"]
+        },
+        {
+          "long_name": "Bengaluru",
+          "short_name": "Bengaluru",
+          "types": ["locality", "political"]
+        },
+        {
+          "long_name": "Bangalore Urban",
+          "short_name": "Bangalore Urban",
+          "types": ["administrative_area_level_2", "political"]
+        },
+        {
+          "long_name": "Karnataka",
+          "short_name": "KA",
+          "types": ["administrative_area_level_1", "political"]
+        },
+        {
+          "long_name": "India",
+          "short_name": "IN",
+          "types": ["country", "political"]
+        },
+        {
+          "long_name": "560103",
+          "short_name": "560103",
+          "types": ["postal_code"]
+        }
+      ],
+      "formatted_address": "Munnireddy Layout, Bengaluru, Karnataka 560103, India",
+      "geometry": {
+        "bounds": {
+          "northeast": {
+            "lat": 12.9456429,
+            "lng": 77.7047211
+          },
+          "southwest": {
+            "lat": 12.9373289,
+            "lng": 77.697653
+          }
+        },
+        "location": {
+          "lat": 12.9419364,
+          "lng": 77.70156639999999
+        },
+        "location_type": "APPROXIMATE",
+        "viewport": {
+          "northeast": {
+            "lat": 12.9456429,
+            "lng": 77.7047211
+          },
+          "southwest": {
+            "lat": 12.9373289,
+            "lng": 77.697653
+          }
+        }
+      },
+      "place_id": "ChIJyfLyt7ITrjsRoVH0siuRbjc",
+      "types": ["political", "sublocality", "sublocality_level_2"]
+    },
+    {
+      "address_components": [
+        {
+          "long_name": "Panathur",
+          "short_name": "Panathur",
+          "types": ["political", "sublocality", "sublocality_level_1"]
+        },
+        {
+          "long_name": "Bengaluru",
+          "short_name": "Bengaluru",
+          "types": ["locality", "political"]
+        },
+        {
+          "long_name": "Bangalore Urban",
+          "short_name": "Bangalore Urban",
+          "types": ["administrative_area_level_2", "political"]
+        },
+        {
+          "long_name": "Karnataka",
+          "short_name": "KA",
+          "types": ["administrative_area_level_1", "political"]
+        },
+        {
+          "long_name": "India",
+          "short_name": "IN",
+          "types": ["country", "political"]
+        }
+      ],
+      "formatted_address": "Panathur, Bengaluru, Karnataka, India",
+      "geometry": {
+        "bounds": {
+          "northeast": {
+            "lat": 12.943908,
+            "lng": 77.71378199999999
+          },
+          "southwest": {
+            "lat": 12.929014,
+            "lng": 77.69509149999999
+          }
+        },
+        "location": {
+          "lat": 12.9355734,
+          "lng": 77.7057495
+        },
+        "location_type": "APPROXIMATE",
+        "viewport": {
+          "northeast": {
+            "lat": 12.943908,
+            "lng": 77.71378199999999
+          },
+          "southwest": {
+            "lat": 12.929014,
+            "lng": 77.69509149999999
+          }
+        }
+      },
+      "place_id": "ChIJWfLn1FMSrjsRxDle2oyW4Jc",
+      "types": ["political", "sublocality", "sublocality_level_1"]
+    },
+    {
+      "address_components": [
+        {
+          "long_name": "560103",
+          "short_name": "560103",
+          "types": ["postal_code"]
+        },
+        {
+          "long_name": "Bengaluru",
+          "short_name": "Bengaluru",
+          "types": ["locality", "political"]
+        },
+        {
+          "long_name": "Bangalore Urban",
+          "short_name": "Bangalore Urban",
+          "types": ["administrative_area_level_2", "political"]
+        },
+        {
+          "long_name": "Karnataka",
+          "short_name": "KA",
+          "types": ["administrative_area_level_1", "political"]
+        },
+        {
+          "long_name": "India",
+          "short_name": "IN",
+          "types": ["country", "political"]
+        }
+      ],
+      "formatted_address": "Bengaluru, Karnataka 560103, India",
+      "geometry": {
+        "bounds": {
+          "northeast": {
+            "lat": 12.9460032,
+            "lng": 77.7080605
+          },
+          "southwest": {
+            "lat": 12.8988026,
+            "lng": 77.64294749999999
+          }
+        },
+        "location": {
+          "lat": 12.9298689,
+          "lng": 77.6848366
+        },
+        "location_type": "APPROXIMATE",
+        "viewport": {
+          "northeast": {
+            "lat": 12.9460032,
+            "lng": 77.7080605
+          },
+          "southwest": {
+            "lat": 12.8988026,
+            "lng": 77.64294749999999
+          }
+        }
+      },
+      "place_id": "ChIJX4VD23QTrjsRm-gX15KhZW0",
+      "types": ["postal_code"]
+    },
+    {
+      "address_components": [
+        {
+          "long_name": "Bengaluru",
+          "short_name": "Bengaluru",
+          "types": ["locality", "political"]
+        },
+        {
+          "long_name": "Bangalore Urban",
+          "short_name": "Bangalore Urban",
+          "types": ["administrative_area_level_2", "political"]
+        },
+        {
+          "long_name": "Karnataka",
+          "short_name": "KA",
+          "types": ["administrative_area_level_1", "political"]
+        },
+        {
+          "long_name": "India",
+          "short_name": "IN",
+          "types": ["country", "political"]
+        }
+      ],
+      "formatted_address": "Bengaluru, Karnataka, India",
+      "geometry": {
+        "bounds": {
+          "northeast": {
+            "lat": 13.173706,
+            "lng": 77.8826809
+          },
+          "southwest": {
+            "lat": 12.7342888,
+            "lng": 77.3791981
+          }
+        },
+        "location": {
+          "lat": 12.9715987,
+          "lng": 77.5945627
+        },
+        "location_type": "APPROXIMATE",
+        "viewport": {
+          "northeast": {
+            "lat": 13.173706,
+            "lng": 77.8826809
+          },
+          "southwest": {
+            "lat": 12.7342888,
+            "lng": 77.3791981
+          }
+        }
+      },
+      "place_id": "ChIJbU60yXAWrjsR4E9-UejD3_g",
+      "types": ["locality", "political"]
+    },
+    {
+      "address_components": [
+        {
+          "long_name": "Bangalore Urban",
+          "short_name": "Bangalore Urban",
+          "types": ["administrative_area_level_2", "political"]
+        },
+        {
+          "long_name": "Karnataka",
+          "short_name": "KA",
+          "types": ["administrative_area_level_1", "political"]
+        },
+        {
+          "long_name": "India",
+          "short_name": "IN",
+          "types": ["country", "political"]
+        }
+      ],
+      "formatted_address": "Bangalore Urban, Karnataka, India",
+      "geometry": {
+        "bounds": {
+          "northeast": {
+            "lat": 13.22497,
+            "lng": 77.83501
+          },
+          "southwest": {
+            "lat": 12.65785,
+            "lng": 77.32867
+          }
+        },
+        "location": {
+          "lat": 12.9700247,
+          "lng": 77.65361249999999
+        },
+        "location_type": "APPROXIMATE",
+        "viewport": {
+          "northeast": {
+            "lat": 13.22497,
+            "lng": 77.83501
+          },
+          "southwest": {
+            "lat": 12.65785,
+            "lng": 77.32867
+          }
+        }
+      },
+      "place_id": "ChIJ_Q7NCkQWrjsRn2yP7O-T8Fg",
+      "types": ["administrative_area_level_2", "political"]
+    },
+    {
+      "address_components": [
+        {
+          "long_name": "Karnataka",
+          "short_name": "KA",
+          "types": ["administrative_area_level_1", "political"]
+        },
+        {
+          "long_name": "India",
+          "short_name": "IN",
+          "types": ["country", "political"]
+        }
+      ],
+      "formatted_address": "Karnataka, India",
+      "geometry": {
+        "bounds": {
+          "northeast": {
+            "lat": 18.4411689,
+            "lng": 78.5860101
+          },
+          "southwest": {
+            "lat": 11.593352,
+            "lng": 74.04960609999999
+          }
+        },
+        "location": {
+          "lat": 15.3172775,
+          "lng": 75.7138884
+        },
+        "location_type": "APPROXIMATE",
+        "viewport": {
+          "northeast": {
+            "lat": 18.4411689,
+            "lng": 78.5860101
+          },
+          "southwest": {
+            "lat": 11.593352,
+            "lng": 74.04960609999999
+          }
+        }
+      },
+      "place_id": "ChIJj0i_N0xaozsR1Xx10YzS8UE",
+      "types": ["administrative_area_level_1", "political"]
+    },
+    {
+      "address_components": [
+        {
+          "long_name": "India",
+          "short_name": "IN",
+          "types": ["country", "political"]
+        }
+      ],
+      "formatted_address": "India",
+      "geometry": {
+        "bounds": {
+          "northeast": {
+            "lat": 35.513327,
+            "lng": 97.39535869999999
+          },
+          "southwest": {
+            "lat": 6.4626999,
+            "lng": 68.1097
+          }
+        },
+        "location": {
+          "lat": 20.593684,
+          "lng": 78.96288
+        },
+        "location_type": "APPROXIMATE",
+        "viewport": {
+          "northeast": {
+            "lat": 35.513327,
+            "lng": 97.39535869999999
+          },
+          "southwest": {
+            "lat": 6.4626999,
+            "lng": 68.1097
+          }
+        }
+      },
+      "place_id": "ChIJkbeSa_BfYzARphNChaFPjNc",
+      "types": ["country", "political"]
+    }
+  ],
+  "status": "OK"
+}
